@@ -1,5 +1,5 @@
 ﻿import mysql.connector
-
+# tämä on kommentti
 mydb = mysql.connector.connect(
   host="dbidentifier.cryvi7hku11q.eu-west-1.rds.amazonaws.com",
   user="admin",
